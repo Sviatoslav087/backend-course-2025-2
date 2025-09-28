@@ -1,0 +1,1 @@
+https://bank.gov.ua/NBUStatService/v1/statdirectory/basindbank?date=20240801&period=m&json
