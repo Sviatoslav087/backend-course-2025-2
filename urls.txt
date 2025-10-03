@@ -1,1 +1,6 @@
 https://bank.gov.ua/NBUStatService/v1/statdirectory/basindbank?date=20240801&period=m&json
+course//:%20web.backend?name=%22%20%D0%9B%D0%B5%D0%B2%D1%87%D1%83%D0%B
+ A%20%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%22&gro
+ up=%22%D0%A4%D0%95%D0%86
+27%D1%81%22&subgroup=%22%D0%BF%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF
+ %D0%B0%202%22#Svitoslav087
